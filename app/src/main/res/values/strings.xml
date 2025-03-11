@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">metrosalud</string>
+    <string name="texto_home">Inicia una nueva aventura con metrosalud y descubre una nueva forma de ver el mundo</string>
+    <string name="boton_comienza">Comienza</string>
+    <string name="boton_registrate">Registrate</string>
+    <string name="texto_login">La nueva aventura esta por iniciar porfavor inicia secion</string>
+    <string name="boton_ingresar">Ingresar</string>
+    <string name="botonrecuperacontra">Recupera Tu Contraseña</string>
+    <string name="boton_google">Ingresa con Google</string>
+    <string name="registrate_login">No tienes cuenta? Registrate</string>
+    <string name="nom">Juan Jose Cucaita Forero</string>
+    <string name="nombres">Nombres</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="correo">Correo electrónico</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="confirma_contra">Confirma la contraseña</string>
+    <string name="telefono">Telefono</string>
+    <string name="terminos">Aceptar los terminos y condiciones</string>
+    <string name="yaregistrado">¿ya estas registrado? Inicia Seción</string>
+    <string name="correorecuperacion">Porfavor ingrese su correo electronico</string>
+    <string name="enviar_recupera">enviar</string>
+    <string name="loginbuttom">Ingresar</string>
+    <string name="editarperfil">Editar</string>
+    <string name="texto_registro">Ingrese sus datos</string>
+</resources>
